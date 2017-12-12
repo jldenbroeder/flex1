@@ -1,2 +1,7 @@
 Ajout depuis master
 
+Ajout depuis la branche test
+
+Conflit réglé, accepté les 2
+
+
